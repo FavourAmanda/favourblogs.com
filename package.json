@@ -1,0 +1,22 @@
+{
+    "name": "bloggin-site",
+    "version": "1.0.0",
+    "description": "A modern web application",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+        "vite": "^4.0.0"
+    },
+    "keywords": ["blogs", "favour"],
+    "author": "Chukwuka Favour",
+    "license": "MIT"
+}
