@@ -1,0 +1,13 @@
+body{
+    font-size: 28px;
+}
+img{
+    align-items: center;
+    border-radius: 25px;
+}
+h1{
+    font-style: italic;
+}
+footer{
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 28px;
+}
+img{
+    align-items: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    box-shadow: 0 10px 50px #dbdbdb;
+}
